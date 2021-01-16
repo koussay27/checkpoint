@@ -1,0 +1,29 @@
+div {
+    display: flex;
+    background-color: #887c11;  
+}
+h1{
+    padding-left: 800px;
+    padding-bottom: 10px;
+}
+h2 {
+    padding-left: 50px;
+    padding-top: 7px;
+}
+h3 {
+    padding-left: 50px;
+    padding-top: 8px ;
+	top: 140px;
+}
+p{
+    padding-left: 200px;
+}
+h5 {
+    padding-top: 300px;
+}
+h4 {
+    padding-top: 50px;
+}
+main {
+    background-color: rgb(184, 150, 0);
+}

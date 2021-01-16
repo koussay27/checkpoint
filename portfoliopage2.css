@@ -1,0 +1,23 @@
+div {
+    display: flex;
+    background-color: #5F9EA0;  
+}
+h1{
+    padding-left: 800px;
+    padding-bottom: 10px;
+}
+h2 {
+    padding-left: 50px;
+    padding-top: 7px;
+}
+h3 {
+    padding-left: 50px;
+    padding-top: 8px ;
+	top: 140px;
+}
+main {
+    background-color: #6495ED;
+}
+p{
+    padding-left: 200px;
+}
